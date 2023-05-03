@@ -3,7 +3,7 @@
 
 A simple Calculator for General purposrs. This was a website built to showcase my Technical skills ,web degin skills.
 
-The site is live <a href="https://himanshuranjan977.github.io/OIBSIP_L2_Task01/" target="_blank">here</a>
+
 ## Features
 
 * Add
